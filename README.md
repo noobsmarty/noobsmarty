@@ -25,8 +25,8 @@ const aryan = {
 
 ---
 
-#  TECH STACK
-br/>
+###  TECH STACK
+<br/>
 
 [![Core](https://skillicons.dev/icons?i=py,java,pytorch,fastapi,docker,git,linux,vscode&perline=8)](https://skillicons.dev)
 
