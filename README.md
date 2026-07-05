@@ -52,7 +52,7 @@ const aryan = {
 ![YOLOv8](https://img.shields.io/badge/YOLOv8-111827?style=for-the-badge)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 </div>
-
+<div align="center">
 ---
 
 <div align="center">
