@@ -7,27 +7,23 @@
 </em></p>
 
 [![Linkedin: Aryan Yadav](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/aaryan-yaadav/)
-[![GitHub aaryanyaadav ](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/aaryanyaadav)
+[![GitHub aaryanyaadav ]](https://github.com/aaryanyaadav)
 
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
-const thai = {
-  pronouns: "she" | "her",
-  code: [Javascript, Typescript, HTML, CSS, Ruby, Python, Java],
-  tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker],
-  architecture: ["microservices", "event-driven", "design system pattern"],
-  techCommunities: {
-                        coorganizer: "AfroPython",
-                        speaker: "Latinity",
-                        mentor: "EducaTRANSforma"
-                      },
+const aryan = {
+  pronouns: "he" | "him",
+  code: [Javascript, HTML, CSS, Python, Java],
+  Frameworks: [PyTorch, TensorFlow, Scikit-learn, FastAPI, YOLO, LangGraph, LangChain],
+  ML: [ Feature Engineering, Supervised and Unsupervised Learning, Boosting & Bagging, RNN, CNN, LSTM, NLP, Attention Mechanisms, Transformers, RAG, VectorLess            RAG, Agentic AI, MCP, LLM Gaurdrail, LLM Evaluation, LLM Observability  ],
+  Tools:[VS Code, Git, Jupyter Notebook, Google Colab, Kaggle, Roboflow]
  challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
 }
 ```
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b> Interested in economics and geopolitics — I optimize AI models by day and try to mentally optimize global systems by night. Still debugging both.</b> :)</em>
 
 ---
 
