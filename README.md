@@ -26,25 +26,24 @@ const aryan = {
 ---
 
 #  TECH STACK
-
-## 🛠️ TECH STACK
+## 🛠 TECH STACK
 
 ### Languages
 
 <p align="left">
-<a href="https://python.org"><img src="https://skillicons.dev/icons?i=python" height="48"/></a>
-<a href="https://java.com"><img src="https://skillicons.dev/icons?i=java" height="48"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=javascript" height="48"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://skillicons.dev/icons?i=html" height="48"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://skillicons.dev/icons?i=css" height="48"/></a>
-<a href="https://www.mysql.com/"><img src="https://skillicons.dev/icons?i=mysql" height="48"/></a>
+<a href="https://python.org"><img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/python/python.svg" height="48"/></a>
+<a href="https://www.java.com"><img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/java/java.svg" height="48"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/javascript/javascript.svg" height="48"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/html/html.svg" height="48"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/css/css.svg" height="48"/></a>
+<a href="https://www.mysql.com"><img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/mysql/mysql.svg" height="48"/></a>
 </p>
 
----
+<br>
 
-### AI / Machine Learning
+### AI & Machine Learning
 
-<p align="left">
+<p>
 
 <img src="https://img.shields.io/badge/SCIKIT--LEARN-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
 
@@ -52,7 +51,7 @@ const aryan = {
 
 <img src="https://img.shields.io/badge/TENSORFLOW-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/XGBOOST-FF7F00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/XGBOOST-E67E22?style=for-the-badge"/>
 
 <img src="https://img.shields.io/badge/NUMPY-013243?style=for-the-badge&logo=numpy"/>
 
@@ -60,19 +59,21 @@ const aryan = {
 
 </p>
 
----
+<br>
 
 ### Generative AI
 
-<p align="left">
+<p>
 
-<img src="https://img.shields.io/badge/LANGCHAIN-1C3C3C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LANGCHAIN-1F4D4D?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/HUGGINGFACE-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+<img src="https://img.shields.io/badge/HUGGINGFACE-FFD43B?style=for-the-badge"/>
 
 <img src="https://img.shields.io/badge/CHROMADB-FF6B35?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/LANGGRAPH-4F46E5?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/GROQ-F55036?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/LANGGRAPH-4338CA?style=for-the-badge"/>
 
 <img src="https://img.shields.io/badge/RAG-6D28D9?style=for-the-badge"/>
 
@@ -80,84 +81,62 @@ const aryan = {
 
 </p>
 
----
+<br>
 
-### Backend
+### Backend & Database
 
-<p align="left">
+<p>
 
-<a href="https://fastapi.tiangolo.com/">
-<img src="https://skillicons.dev/icons?i=fastapi" height="48"/>
-</a>
+<img src="https://img.shields.io/badge/FASTAPI-009688?style=for-the-badge"/>
 
-<a href="https://flask.palletsprojects.com/">
-<img src="https://skillicons.dev/icons?i=flask" height="48"/>
-</a>
+<img src="https://img.shields.io/badge/FLASK-000000?style=for-the-badge"/>
 
-<a href="https://firebase.google.com/">
-<img src="https://skillicons.dev/icons?i=firebase" height="48"/>
-</a>
+<img src="https://img.shields.io/badge/FIREBASE-FFA611?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/SUPABASE-3ECF8E?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/SQLITE-003B57?style=for-the-badge"/>
 
 </p>
 
----
+<br>
 
 ### Computer Vision
 
-<p align="left">
+<p>
 
-<img src="https://img.shields.io/badge/YOLOv8-111827?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/YOLOv8-FF4088?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv"/>
+<img src="https://img.shields.io/badge/OPENCV-5C3EE8?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/OCR-2F80ED?style=for-the-badge"/>
-
-</p>
-
----
-
-### Databases
-
-<p align="left">
-
-<a href="https://sqlite.org">
-<img src="https://skillicons.dev/icons?i=sqlite" height="48"/>
-</a>
-
-<a href="https://supabase.com">
-<img src="https://skillicons.dev/icons?i=supabase" height="48"/>
-</a>
+<img src="https://img.shields.io/badge/OCR-3B82F6?style=for-the-badge"/>
 
 </p>
 
----
+<br>
 
 ### Developer Tools
 
 <p align="left">
 
 <a href="https://git-scm.com">
-<img src="https://skillicons.dev/icons?i=git" height="48"/>
-</a>
-
-<a href="https://github.com">
-<img src="https://skillicons.dev/icons?i=github" height="48"/>
-</a>
-
-<a href="https://code.visualstudio.com">
-<img src="https://skillicons.dev/icons?i=vscode" height="48"/>
-</a>
-
-<a href="https://www.postman.com">
-<img src="https://skillicons.dev/icons?i=postman" height="48"/>
+<img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/git-scm/git-scm.svg" height="48"/>
 </a>
 
 <a href="https://www.docker.com">
-<img src="https://skillicons.dev/icons?i=docker" height="48"/>
+<img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/docker/docker.svg" height="48"/>
 </a>
 
 <a href="https://ubuntu.com">
-<img src="https://skillicons.dev/icons?i=linux" height="48"/>
+<img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/linux/linux.svg" height="48"/>
+</a>
+
+<a href="https://code.visualstudio.com">
+<img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/vs-code/vs-code.svg" height="48"/>
+</a>
+
+<a href="https://jupyter.org">
+<img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/jupyter/jupyter.svg" height="48"/>
 </a>
 
 </p>
