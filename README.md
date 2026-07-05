@@ -17,16 +17,16 @@ const aryan = {
   Frameworks: [PyTorch, TensorFlow, Scikit-learn, FastAPI, YOLO, LangGraph, LangChain],
   ML: [ Feature Engineering, Supervised and Unsupervised Learning, Boosting & Bagging, RNN, CNN, LSTM, NLP, Attention Mechanisms, Transformers, RAG, VectorLess RAG, Agentic AI, MCP, LLM Gaurdrail, LLM Evaluation, LLM Observability  ],
   Tools:[VS Code, Git, Jupyter Notebook, Google Colab, Kaggle, Roboflow]
-  challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
 }
 ```
 
 <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmppaDRpbnpwMnljYXJoY3NqcGkwb2ZhNDl3ZWczdTFtNG02M2liYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/eEjf3t9MeTXZM0d91u/giphy.gif" width="60"> <em><b> Interested in   geopolitics — I optimize AI models by day and try to mentally optimize global systems by night. Still debugging both.</b> :)</em>
 
+---
+
 <div align="center">
   
----
-###  TECH STACK
+### TECH STACK
 
 <br/>
 
