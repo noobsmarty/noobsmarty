@@ -69,8 +69,6 @@ const aryan = {
 
 <br>
 
-## 📊 GITHUB STATS
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=noobsmarty&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=D85A30&icon_color=D85A30&text_color=c9d1d9" alt="GitHub Stats" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=noobsmarty&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=D85A30&text_color=c9d1d9" alt="Top Languages" width="48%" />
