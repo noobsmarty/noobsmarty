@@ -1,7 +1,6 @@
 
 
 <h2> Hi, I'm Aryan Kumar Yadav! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<img align='right' src="https://giphy.com/gifs/work-office-working-lfRnoNgHdlxuROeYaY" width="100">
 <p><em>Student At <a href="https://vitbhopal.ac.in/">VIT Bhopal University</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="40">
 <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDg0eWYzd2FkeTVseGpmZ3diYXQ4MHAyOGprd2pjZjBtZG1wbWF0bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/11JTxkrmq4bGE0/giphy.gif" width="30"> 
 </em></p>
