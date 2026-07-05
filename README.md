@@ -27,75 +27,140 @@ const aryan = {
 
 #  TECH STACK
 
+## 🛠️ TECH STACK
+
 ### Languages
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+<p align="left">
+<a href="https://python.org"><img src="https://skillicons.dev/icons?i=python" height="48"/></a>
+<a href="https://java.com"><img src="https://skillicons.dev/icons?i=java" height="48"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=javascript" height="48"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://skillicons.dev/icons?i=html" height="48"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://skillicons.dev/icons?i=css" height="48"/></a>
+<a href="https://www.mysql.com/"><img src="https://skillicons.dev/icons?i=mysql" height="48"/></a>
+</p>
 
 ---
 
-### Machine Learning & Deep Learning
+### AI / Machine Learning
 
-![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-0066CC?style=for-the-badge)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![SHAP](https://img.shields.io/badge/SHAP-FF6B6B?style=for-the-badge)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![YOLOv8](https://img.shields.io/badge/YOLOv8-111827?style=for-the-badge)
+<p align="left">
+
+<img src="https://img.shields.io/badge/SCIKIT--LEARN-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/PYTORCH-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/TENSORFLOW-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/XGBOOST-FF7F00?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/NUMPY-013243?style=for-the-badge&logo=numpy"/>
+
+<img src="https://img.shields.io/badge/PANDAS-150458?style=for-the-badge&logo=pandas"/>
+
+</p>
 
 ---
 
 ### Generative AI
 
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge)
-![LangGraph](https://img.shields.io/badge/LangGraph-4B32C3?style=for-the-badge)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![Transformers](https://img.shields.io/badge/Transformers-FFCC00?style=for-the-badge)
-![RAG](https://img.shields.io/badge/RAG-6C63FF?style=for-the-badge)
-![Vectorless RAG](https://img.shields.io/badge/Vectorless_RAG-4A90E2?style=for-the-badge)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-7B61FF?style=for-the-badge)
-![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-FF9800?style=for-the-badge)
-![Agentic AI](https://img.shields.io/badge/Agentic_AI-6D28D9?style=for-the-badge)
-![LLM Evaluation](https://img.shields.io/badge/LLM_Evaluation-009688?style=for-the-badge)
-![LLM Guardrails](https://img.shields.io/badge/LLM_Guardrails-E53935?style=for-the-badge)
-![MCP](https://img.shields.io/badge/MCP-2563EB?style=for-the-badge)
+<p align="left">
+
+<img src="https://img.shields.io/badge/LANGCHAIN-1C3C3C?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/HUGGINGFACE-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/CHROMADB-FF6B35?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/LANGGRAPH-4F46E5?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/RAG-6D28D9?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/MCP-2563EB?style=for-the-badge"/>
+
+</p>
 
 ---
 
-### Backend & APIs
+### Backend
 
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+<p align="left">
+
+<a href="https://fastapi.tiangolo.com/">
+<img src="https://skillicons.dev/icons?i=fastapi" height="48"/>
+</a>
+
+<a href="https://flask.palletsprojects.com/">
+<img src="https://skillicons.dev/icons?i=flask" height="48"/>
+</a>
+
+<a href="https://firebase.google.com/">
+<img src="https://skillicons.dev/icons?i=firebase" height="48"/>
+</a>
+
+</p>
+
+---
+
+### Computer Vision
+
+<p align="left">
+
+<img src="https://img.shields.io/badge/YOLOv8-111827?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv"/>
+
+<img src="https://img.shields.io/badge/OCR-2F80ED?style=for-the-badge"/>
+
+</p>
 
 ---
 
 ### Databases
 
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Firestore](https://img.shields.io/badge/Firestore-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-7B61FF?style=for-the-badge)
+<p align="left">
+
+<a href="https://sqlite.org">
+<img src="https://skillicons.dev/icons?i=sqlite" height="48"/>
+</a>
+
+<a href="https://supabase.com">
+<img src="https://skillicons.dev/icons?i=supabase" height="48"/>
+</a>
+
+</p>
 
 ---
 
-### 🛠 Developer Tools
+### Developer Tools
 
-![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
-![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)
-![Roboflow](https://img.shields.io/badge/Roboflow-6706CE?style=for-the-badge)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
+<p align="left">
+
+<a href="https://git-scm.com">
+<img src="https://skillicons.dev/icons?i=git" height="48"/>
+</a>
+
+<a href="https://github.com">
+<img src="https://skillicons.dev/icons?i=github" height="48"/>
+</a>
+
+<a href="https://code.visualstudio.com">
+<img src="https://skillicons.dev/icons?i=vscode" height="48"/>
+</a>
+
+<a href="https://www.postman.com">
+<img src="https://skillicons.dev/icons?i=postman" height="48"/>
+</a>
+
+<a href="https://www.docker.com">
+<img src="https://skillicons.dev/icons?i=docker" height="48"/>
+</a>
+
+<a href="https://ubuntu.com">
+<img src="https://skillicons.dev/icons?i=linux" height="48"/>
+</a>
+
+</p>
 ---
 ### GitHub Stats
 <a href='https://github.com/aaryanyaadav/github-stats-transparent'>
