@@ -20,151 +20,33 @@ Machine Learning Engineer • GenAI Engineer • Building Production-Ready AI Sy
 
 ---
 
-<p align="center">
+<h2> Hi, I'm Thai Braga! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
+<p><em>Software Enginner at <a href="http://www.unb.br">University of Brasilia</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Software Engineer at <a href="https://international.nubank.com.br/about/">Nubank</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+</em></p>
 
-<img src="https://img.shields.io/badge/Location-India-success?style=for-the-badge">
+[![Linkedin: thaianebraga](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/thaianebraga/)
+[![GitHub Thaiane](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/Thaiane)
 
-<img src="https://img.shields.io/badge/VIT%20Bhopal-B.Tech%20CSE-blue?style=for-the-badge">
 
-<img src="https://img.shields.io/badge/Open%20to-Internships-orange?style=for-the-badge">
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
-<img src="https://img.shields.io/badge/Focus-Generative%20AI-red?style=for-the-badge">
-
-</p>
-
----
-
-<table>
-<tr>
-
-<td width="58%">
-
-# 👨🏻‍💻 About Me
-
-```python
-class AryanKumarYadav:
-
-    def __init__(self):
-
-        self.name = "Aryan Kumar Yadav"
-
-        self.role = "Machine Learning Engineer"
-
-        self.pronouns = "He/Him"
-
-        self.education = "B.Tech CSE @ VIT Bhopal"
-
-        self.location = "India"
-
-        self.current_focus = [
-            "Large Language Models",
-            "Retrieval-Augmented Generation",
-            "Agentic AI",
-            "Machine Learning",
-            "Deep Learning",
-            "Computer Vision"
-        ]
-
-        self.currently_building = [
-            "Contract Intelligence using RAG",
-            "NexusAI Multi-Agent Platform",
-            "SmartFleet AI"
-        ]
-
-        self.learning = [
-            "LLM Evaluation",
-            "Model Context Protocol",
-            "Advanced Agentic Systems",
-            "Production AI"
-        ]
-
-        self.interests = [
-            "Economics",
-            "Geopolitics",
-            "System Design",
-            "Optimization"
-        ]
-
-    def motto(self):
-
-        return "Build AI that creates real-world impact."
+```javascript
+const thai = {
+  pronouns: "she" | "her",
+  code: [Javascript, Typescript, HTML, CSS, Ruby, Python, Java],
+  tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker],
+  architecture: ["microservices", "event-driven", "design system pattern"],
+  techCommunities: {
+                        coorganizer: "AfroPython",
+                        speaker: "Latinity",
+                        mentor: "EducaTRANSforma"
+                      },
+ challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
+}
 ```
 
-</td>
-
-<td width="42%">
-
-<p align="center">
-
-<img src="https://cdn-icons-png.flaticon.com/512/4140/4140048.png" width="320">
-
-</p>
-
-</td>
-
-</tr>
-</table>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
 ---
 
-# 🚀 Currently Building
-
-### 📄 Contract Intelligence System
-
-> Enterprise-grade Legal Contract Auditor using
->
-> - Retrieval-Augmented Generation (RAG)
-> - ChromaDB
-> - FastAPI
-> - OCR
-> - Explainable AI
-
----
-
-### 🤖 NexusAI
-
-Multi-Agent Customer Support Intelligence Platform
-
-✔ LangGraph
-
-✔ Agentic AI
-
-✔ Conversation Memory
-
-✔ Routing Engine
-
-✔ AI Guardrails
-
-✔ Observability Dashboard
-
----
-
-### 🚚 SmartFleet AI
-
-Autonomous Logistics Operating System
-
-- Demand Forecasting
-
-- Route Optimization
-
-- Risk Analysis
-
-- Multi-Agent Orchestration
-
-- Fleet Intelligence
-
----
-
-# 💡 Philosophy
-
-> I enjoy building **AI systems that move beyond research notebooks into production**. My interests lie in designing scalable ML pipelines, deploying LLM-powered applications, and creating intelligent systems that solve practical business problems. I value clean architecture, explainable AI, and software that delivers measurable impact.
-
----
-
-<p align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
-
-</p>
-
----
