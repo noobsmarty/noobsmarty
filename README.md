@@ -2,7 +2,8 @@
 
 <h2> Hi, I'm Aryan Kumar Yadav! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
-<p><em>Student At <a href="http://www.unb.br">VIT Bhopal University</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Software Engineer at <a href="https://international.nubank.com.br/about/">Nubank</a><img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDg0eWYzd2FkeTVseGpmZ3diYXQ4MHAyOGprd2pjZjBtZG1wbWF0bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/11JTxkrmq4bGE0/giphy.gif" width="30"> 
+<p><em>Student At <a href="http://www.unb.br">VIT Bhopal University</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDg0eWYzd2FkeTVseGpmZ3diYXQ4MHAyOGprd2pjZjBtZG1wbWF0bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/11JTxkrmq4bGE0/giphy.gif" width="30"> 
 </em></p>
 
 [![Linkedin: Aryan Yadav](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/aaryan-yaadav/)
