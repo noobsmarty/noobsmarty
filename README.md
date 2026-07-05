@@ -1,32 +1,12 @@
-<!-- ========================= -->
-<!--        HEADER             -->
-<!-- ========================= -->
 
-<h1 align="center">
-  Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35">, I'm Aryan Kumar Yadav
-</h1>
 
-<h3 align="center">
-Machine Learning Engineer • GenAI Engineer • Building Production-Ready AI Systems
-</h3>
-
-<p align="center">
-
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3500&pause=800&center=true&vCenter=true&width=850&lines=Machine+Learning+Engineer;Generative+AI+Developer;LLM+Application+Engineer;Building+Production+AI+Systems;FastAPI+%7C+LangGraph+%7C+RAG+%7C+Deep+Learning" />
-</a>
-
-</p>
-
----
-
-<h2> Hi, I'm Thai Braga! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<h2> Hi, I'm Aryan Kumar Yadav! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
-<p><em>Software Enginner at <a href="http://www.unb.br">University of Brasilia</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Software Engineer at <a href="https://international.nubank.com.br/about/">Nubank</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><em>Student At <a href="http://www.unb.br">VIT Bhopal University</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Software Engineer at <a href="https://international.nubank.com.br/about/">Nubank</a><img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDg0eWYzd2FkeTVseGpmZ3diYXQ4MHAyOGprd2pjZjBtZG1wbWF0bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/11JTxkrmq4bGE0/giphy.gif" width="30"> 
 </em></p>
 
-[![Linkedin: thaianebraga](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/thaianebraga/)
-[![GitHub Thaiane](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/Thaiane)
+[![Linkedin: Aryan Yadav](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/aaryan-yaadav/)
+[![GitHub aaryanyaadav ](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/aaryanyaadav)
 
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
