@@ -51,7 +51,6 @@ const aryan = {
 ![Jupyter](https://img.shields.io/badge/Jupyter-FA0F00?style=for-the-badge&logo=jupyter&logoColor=white)
 ![YOLOv8](https://img.shields.io/badge/YOLOv8-111827?style=for-the-badge)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-</div>
 <div align="center">
 ---
 
