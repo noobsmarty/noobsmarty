@@ -15,9 +15,9 @@ const aryan = {
   pronouns: "he" | "him",
   code: [Javascript, HTML, CSS, Python, Java],
   Frameworks: [PyTorch, TensorFlow, Scikit-learn, FastAPI, YOLO, LangGraph, LangChain],
-  ML: [ Feature Engineering, Supervised and Unsupervised Learning, Boosting & Bagging, RNN, CNN, LSTM, NLP, Attention Mechanisms, Transformers, RAG, VectorLess            RAG, Agentic AI, MCP, LLM Gaurdrail, LLM Evaluation, LLM Observability  ],
+  ML: [ Feature Engineering, Supervised and Unsupervised Learning, Boosting & Bagging, RNN, CNN, LSTM, NLP, Attention Mechanisms, Transformers, RAG, VectorLess RAG, Agentic AI, MCP, LLM Gaurdrail, LLM Evaluation, LLM Observability  ],
   Tools:[VS Code, Git, Jupyter Notebook, Google Colab, Kaggle, Roboflow]
- challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
+  challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
 }
 ```
 
@@ -52,11 +52,11 @@ const aryan = {
 ![YOLOv8](https://img.shields.io/badge/YOLOv8-111827?style=for-the-badge)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 </div>
----
+
 
 <div align="center">
   
-
+---
 ### GitHub Stats
 <a href='https://github.com/aaryanyaadav/github-stats-transparent'>
   
