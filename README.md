@@ -24,6 +24,7 @@ const aryan = {
 <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmppaDRpbnpwMnljYXJoY3NqcGkwb2ZhNDl3ZWczdTFtNG02M2liYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/eEjf3t9MeTXZM0d91u/giphy.gif" width="60"> <em><b> Interested in   geopolitics — I optimize AI models by day and try to mentally optimize global systems by night. Still debugging both.</b> :)</em>
 
 <div align="center">
+  
 ---
 ###  TECH STACK
 
