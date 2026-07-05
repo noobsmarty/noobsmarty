@@ -1,7 +1,7 @@
 
 
 <h2> Hi, I'm Aryan Kumar Yadav! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
+<img align='right' src="https://giphy.com/gifs/work-laptop-deadline-H1f1T0tKK4jEfNt6MG" width="230">
 <p><em>Student At <a href="http://www.unb.br">VIT Bhopal University</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
 <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDg0eWYzd2FkeTVseGpmZ3diYXQ4MHAyOGprd2pjZjBtZG1wbWF0bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/11JTxkrmq4bGE0/giphy.gif" width="30"> 
 </em></p>
@@ -24,7 +24,7 @@ const aryan = {
 }
 ```
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b> Interested in economics and geopolitics — I optimize AI models by day and try to mentally optimize global systems by night. Still debugging both.</b> :)</em>
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmppaDRpbnpwMnljYXJoY3NqcGkwb2ZhNDl3ZWczdTFtNG02M2liYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/eEjf3t9MeTXZM0d91u/giphy.gif" width="60"> <em><b> Interested in economics and geopolitics — I optimize AI models by day and try to mentally optimize global systems by night. Still debugging both.</b> :)</em>
 
 ---
 
