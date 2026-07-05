@@ -24,8 +24,8 @@ const aryan = {
 <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmppaDRpbnpwMnljYXJoY3NqcGkwb2ZhNDl3ZWczdTFtNG02M2liYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/eEjf3t9MeTXZM0d91u/giphy.gif" width="60"> <em><b> Interested in   geopolitics — I optimize AI models by day and try to mentally optimize global systems by night. Still debugging both.</b> :)</em>
 
 ---
-### Github Stats
-<a href='https://github.com/rahul-jha98/github-stats-transparent'>
+### 📊 GitHub Stats
+<a href='https://github.com/aaryanyaadav/github-stats-transparent'>
   
 ![Stats Overview](https://raw.githubusercontent.com/aaryanyaadav/github-stats-transparent/output/generated/overview.svg)
 ![Most Used Languages](https://raw.githubusercontent.com/aaryanyaadav/github-stats-transparent/output/generated/languages.svg)
